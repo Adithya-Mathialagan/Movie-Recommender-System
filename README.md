@@ -19,6 +19,4 @@ For each movie, find the closest vectors for recommendation, using cosine-simila
 6. Save the model.
 
 ### To run the App:
-streamlit run app.py
-
-"# Movie-Recommender-System" 
+streamlit run app.py 
