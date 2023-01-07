@@ -19,4 +19,6 @@ For each movie, find the closest vectors for recommendation, using cosine-simila
 6. Save the model.
 
 ### To run the App:
-streamlit run app.py 
+1. Download the datasets and store within same folder.
+2. Run Movie_Recommender.ipynb
+3. Run : streamlit run app.py 
