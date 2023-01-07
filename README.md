@@ -2,10 +2,9 @@
 
 This project recommends the Top 5 most similar movies for a given input movie, using cosine-similarity.
 
-## Output Screenshot:
+### Output Screenshot:
 <p align="center">
-  <img src="Output.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="Output.png" width="800" title="hover text">
 </p>
 
 ### Dataset used: 
