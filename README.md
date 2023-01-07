@@ -2,6 +2,12 @@
 
 This project recommends the Top 5 most similar movies for a given input movie, using cosine-similarity.
 
+## Output Screenshot:
+<p align="center">
+  <img src="Output.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 ### Dataset used: 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
@@ -22,3 +28,4 @@ For each movie, find the closest vectors for recommendation, using cosine-simila
 1. Download the datasets and store within same folder.
 2. Run Movie_Recommender.ipynb
 3. Run : streamlit run app.py 
+
